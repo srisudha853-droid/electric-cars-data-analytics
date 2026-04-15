@@ -42,7 +42,14 @@ This project helps in understanding the adoption of electric vehicles ,charging 
 [electric_vehicle_charging_station_list.csv](https://github.com/user-attachments/files/26743580/electric_vehicle_charging_station_list.csv)
 
 
-- Dashboard Screenshots<img width="1649" height="2499" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/32a2b3d1-fc96-4b0d-a5e6-de3952552eaa" />
+- Dashboard Screenshots
+- <img width="1649" height="2499" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/32a2b3d1-fc96-4b0d-a5e6-de3952552eaa" />
+  
+-STORY screenshots
+<img width="981" height="963" alt="Screenshot 2026-02-22 193309" src="https://github.com/user-attachments/assets/f2bcd456-af14-47e2-93e9-659ad945df9b" />
+<img width="1004" height="686" alt="Screenshot 2026-02-22 193403" src="https://github.com/user-attachments/assets/f1a4de56-c337-44e1-99a9-af8a1e780c92" />
+<img width="1009" height="490" alt="Screenshot 2026-02-22 193349" src="https://github.com/user-attachments/assets/236ea665-6436-4395-b8f3-7edfcb5ce448" />
+<img width="1014" height="954" alt="Screenshot 2026-02-22 193333" src="https://github.com/user-attachments/assets/cc2cf3f3-e4ad-4f87-9ff3-ee175be22ede" />
 
 
 ## 💡 Learnings
